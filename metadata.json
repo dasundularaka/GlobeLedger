@@ -1,0 +1,6 @@
+{
+  "name": "Expenses Tracker",
+  "description": "An open-source expenses tracking app featuring Gemini OCR receipt scanning, budget visualization, automated monthly reports, and multi-currency syncing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
